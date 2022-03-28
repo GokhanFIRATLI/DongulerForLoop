@@ -1,0 +1,15 @@
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\bin\Debug\net6.0\DongulerForLoop.exe
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\bin\Debug\net6.0\DongulerForLoop.deps.json
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\bin\Debug\net6.0\DongulerForLoop.runtimeconfig.json
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\bin\Debug\net6.0\DongulerForLoop.dll
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\bin\Debug\net6.0\DongulerForLoop.pdb
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.csproj.AssemblyReference.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.AssemblyInfoInputs.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.AssemblyInfo.cs
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.csproj.CoreCompileInputs.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.dll
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\refint\DongulerForLoop.dll
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.pdb
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\DongulerForLoop.genruntimeconfig.cache
+C:\Users\ErayGRUP\Desktop\PatikaDevPratikler\DongulerForLoop\obj\Debug\net6.0\ref\DongulerForLoop.dll
